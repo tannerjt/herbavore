@@ -1,0 +1,21 @@
+{
+  "name": "herbavore",
+  "homepage": "https://github.com/tannerjt/herbavore",
+  "authors": [
+    "tannerjt <biolsurfer85@gmail.com>"
+  ],
+  "description": "Playing with leaflet omnivore and html5 file upload",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet-omnivore": "~0.3.2"
+  }
+}
