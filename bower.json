@@ -16,6 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "leaflet-omnivore": "~0.3.2"
+    "leaflet-omnivore": "~0.3.2",
+    "jquery": "^2.2.3",
+    "leaflet": "^0.7.7"
   }
 }
