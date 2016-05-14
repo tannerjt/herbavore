@@ -2,9 +2,11 @@
 
 To Run:
 
-```bower install
+```
+bower install
 npm install http-server -g
-http-server -o```
+http-server -o
+```
 
 [File Input](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
 
